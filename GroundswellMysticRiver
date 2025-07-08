@@ -11,7 +11,9 @@
         "fill": "#FFD300",
         "fill-opacity": 1,
         "Cost": "R13,928",
-        "Owner": "Bernard Myburgh"
+        "Owner": "Bernard Myburgh",
+        "Asset": "Nursery Building101",
+        "Function": "Produce alot of palnts"
       },
       "geometry": {
         "coordinates": [
@@ -39,7 +41,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 0
     },
     {
       "type": "Feature",
@@ -50,7 +53,8 @@
         "stroke-opacity": 1,
         "Function": "Water Harvesting",
         "Owner": "Matthew Findlayson",
-        "Asset ": ""
+        "Asset ": "Swale",
+        "Cost": "R35,928.39"
       },
       "geometry": {
         "coordinates": [
@@ -111,7 +115,11 @@
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
         "fill-opacity": 1,
-        "Asset ": ""
+        "Asset ": "Compost Toilet",
+        "Owner": "Tony",
+        "Asset": "COMPOOST Toilet",
+        "Function": "Human needs in landscape, human needs to poo",
+        "Cost": "R20,823"
       },
       "geometry": {
         "coordinates": [
@@ -149,7 +157,12 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset ": "Garden Row 1",
+        "Function": "Carrots August 2025",
+        "Owner": "Agathy",
+        "Asset": "GardneMarketBed1",
+        "Cost": "R2000"
       },
       "geometry": {
         "coordinates": [
@@ -193,8 +206,10 @@
         "stroke-opacity": 1,
         "fill": "#DF494E",
         "fill-opacity": 1,
-        "Function": "Storage",
-        "Owner": "Bernard, James, John"
+        "Function": "Storage for ALL",
+        "Owner": "Bernard, James, John",
+        "Asset ": "Storage Container",
+        "Cost": "R60,028"
       },
       "geometry": {
         "coordinates": [
@@ -231,7 +246,12 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1ead8a",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset ": "Tree 1",
+        "Cost": "R243",
+        "Owner": "Andri",
+        "Asset": "LiLTree1",
+        "Function": "Grow oranges"
       },
       "geometry": {
         "type": "Polygon",
@@ -509,7 +529,12 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset ": "Tree 2",
+        "Owner": "Kepler",
+        "Asset": "Boomshiekietree",
+        "Function": "Grow avos",
+        "Cost": "R132"
       },
       "geometry": {
         "type": "Polygon",
@@ -786,7 +811,12 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset ": "Tree 3",
+        "Owner": "James",
+        "Asset": "Yoyotree",
+        "Function": "Grow Mangos",
+        "Cost": "R374"
       },
       "geometry": {
         "type": "Polygon",
@@ -1064,7 +1094,12 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset ": "Tree 4",
+        "Owner": "Tony",
+        "Asset": "Kleponamio",
+        "Cost": "R823",
+        "Function": "grow cherries"
       },
       "geometry": {
         "type": "Polygon",
@@ -1333,101 +1368,6 @@
           ]
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Asset": "Main Base",
-        "isFocusArea": "true"
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              19.056474498693802,
-              -33.73326048104555
-            ],
-            [
-              19.056361759123433,
-              -33.73381325976264
-            ],
-            [
-              19.056190301025367,
-              -33.734465651264735
-            ],
-            [
-              19.056054074042663,
-              -33.734844582972606
-            ],
-            [
-              19.056629515604612,
-              -33.73492857276416
-            ],
-            [
-              19.057157982345018,
-              -33.73502428196102
-            ],
-            [
-              19.05722609583583,
-              -33.73507897288258
-            ],
-            [
-              19.057298906809734,
-              -33.735102411838824
-            ],
-            [
-              19.057378764005705,
-              -33.73492466626412
-            ],
-            [
-              19.057507944764183,
-              -33.73460237939308
-            ],
-            [
-              19.057604243148432,
-              -33.734352362077864
-            ],
-            [
-              19.057648869228984,
-              -33.734297670693145
-            ],
-            [
-              19.057503247282227,
-              -33.73410429730284
-            ],
-            [
-              19.057437482532436,
-              -33.733914830022954
-            ],
-            [
-              19.057350579113375,
-              -33.73369215660308
-            ],
-            [
-              19.05725662947023,
-              -33.733520267953196
-            ],
-            [
-              19.05718146975633,
-              -33.733362051960256
-            ],
-            [
-              19.057106310041405,
-              -33.73321750869917
-            ],
-            [
-              19.056481544917887,
-              -33.733197975806874
-            ],
-            [
-              19.056474498693802,
-              -33.73326048104555
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      },
-      "id": 9
     }
   ]
 }
