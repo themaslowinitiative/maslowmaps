@@ -10,7 +10,7 @@
         "stroke-opacity": 1,
         "fill": "#b8b8b8",
         "fill-opacity": 0.5,
-        "isFocusArea": "true"
+        "isFocusArea": true
       },
       "geometry": {
         "coordinates": [
