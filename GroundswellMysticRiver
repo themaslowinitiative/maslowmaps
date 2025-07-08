@@ -9,7 +9,9 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#000000",
-        "fill-opacity": 0.7
+        "fill-opacity": 0.7,
+        "Asset": "",
+        "Owner": "Dark Overlay"
       },
       "geometry": {
         "coordinates": [
@@ -113,7 +115,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House 1",
+        "Owner": "Tracy",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -144,7 +151,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House 2",
+        "Owner": "Annie",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -175,7 +187,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House 3",
+        "Owner": "Susan",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -207,7 +224,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House 4",
+        "Owner": "Findley",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -234,11 +256,17 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 4
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House Complex 5",
+        "Owner": "Deezo and the gang",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -325,7 +353,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House 7",
+        "Owner": "Green Eyes",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -372,7 +405,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Asset": "House 9",
+        "Owner": "David",
+        "Value": "-",
+        "Function": "Community Dwelling"
+      },
       "geometry": {
         "coordinates": [
           [
@@ -404,14 +442,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Asset ": "Nursery",
         "stroke": "#ffffff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#FFD300",
-        "fill-opacity": 1,
-        "Cost": "R13,928",
-        "Owner": "Bernard Myburgh"
+        "fill-opacity": 0.5,
+        "Owner": "Bernard Myburgh",
+        "Asset": "Nursery Structure",
+        "Value": 13928,
+        "Function": "Housing and irrigation for nersery plants, seedlings and storage"
       },
       "geometry": {
         "coordinates": [
@@ -439,7 +478,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 8
     },
     {
       "type": "Feature",
@@ -450,7 +490,7 @@
         "stroke-opacity": 1,
         "Function": "Water Harvesting",
         "Owner": "Matthew Findlayson",
-        "Asset ": ""
+        "Value": 35283
       },
       "geometry": {
         "coordinates": [
@@ -509,9 +549,12 @@
         "stroke": "#ffffff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#1EAD8A",
-        "fill-opacity": 1,
-        "Asset ": ""
+        "fill": "#1ead8a",
+        "fill-opacity": 0.5,
+        "Asset": "Compost Toilet",
+        "Owner": "Community Owned",
+        "Value": 17923,
+        "Function": "Community compost toilet"
       },
       "geometry": {
         "coordinates": [
@@ -540,7 +583,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 2
+      "id": 10
     },
     {
       "type": "Feature",
@@ -548,8 +591,12 @@
         "stroke": "#ffffff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill": "#1ead8a",
+        "fill-opacity": 0.5,
+        "Asset": "Market Garden Bed",
+        "Owner": "Rikkie",
+        "Value": 2100,
+        "Function": "30m x 0.75m Grow Bed - Carrots - August 2025"
       },
       "geometry": {
         "coordinates": [
@@ -582,7 +629,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 4
+      "id": 11
     },
     {
       "type": "Feature",
@@ -592,9 +639,10 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#DF494E",
-        "fill-opacity": 1,
+        "fill-opacity": 0.5,
         "Function": "Storage",
-        "Owner": "Bernard, James, John"
+        "Owner": "Bernard, James, John",
+        "Value": 57920
       },
       "geometry": {
         "coordinates": [
@@ -631,7 +679,11 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1ead8a",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset": "Tree 1",
+        "Function": "Oranges",
+        "Owner": "Andri",
+        "Value": 132
       },
       "geometry": {
         "type": "Polygon",
@@ -909,7 +961,11 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset": "Tree 2",
+        "Function": "Apples",
+        "Owner": "James",
+        "Value": 235
       },
       "geometry": {
         "type": "Polygon",
@@ -1186,7 +1242,11 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset": "Tree 3",
+        "Function": "Pears",
+        "Owner": "Melissa",
+        "Value": 433
       },
       "geometry": {
         "type": "Polygon",
@@ -1464,7 +1524,11 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#1EAD8A",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "Asset": "Tree 4",
+        "Function": "Mangos",
+        "Owner": "Stephanie",
+        "Value": 718
       },
       "geometry": {
         "type": "Polygon",
