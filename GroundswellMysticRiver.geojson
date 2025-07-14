@@ -4,15 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mask with Cutout",
+        "name": "Overlay",
         "stroke": "#ffffff",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#000000",
         "fill-opacity": 0.7,
-        "Asset": "",
-        "Owner": "Dark Overlay",
-        "Value": ""
+        "Asset": "Overlay",
+        "Owner": "-",
+        "Value": "-",
+        "Area": "-",
+        "For Sale": "-",
+        "Function": "Overlay"
       },
       "geometry": {
         "coordinates": [
@@ -675,7 +678,7 @@
         ],
         "type": "Polygon"
       },
-      "id": 4
+      "id": 8
     },
     {
       "type": "Feature",
@@ -688,7 +691,8 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#9885cc",
-        "fill-opacity": 0.5
+        "fill-opacity": 0.5,
+        "name": ""
       },
       "geometry": {
         "coordinates": [
