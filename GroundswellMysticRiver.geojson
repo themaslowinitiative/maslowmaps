@@ -885,12 +885,13 @@
         "stroke": "#ffffff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#FFD300",
+        "fill": "#ffd300",
         "fill-opacity": 0.5,
         "Owner": "Bernard Myburgh",
         "Asset": "Nursery Structure",
         "Value": 13928,
-        "Function": "Housing and irrigation for nersery plants, seedlings and storage"
+        "Function": "Housing and irrigation for nersery plants, seedlings and storage",
+        "Image": "https://framerusercontent.com/images/JdOSUdX2C1i6Fe8Nu75zoCsEnQU.png"
       },
       "geometry": {
         "coordinates": [
@@ -933,7 +934,8 @@
         "Owner": "Community Owned",
         "Value": 17923,
         "Function": "Community compost toilet",
-        "name": ""
+        "name": "",
+        "Image": "https://framerusercontent.com/images/7mPxqgyPJTZuocirNtW7i25FcNc.png"
       },
       "geometry": {
         "coordinates": [
@@ -976,7 +978,8 @@
         "Owner": "Rikkie",
         "Value": 2100,
         "Function": "30m x 0.75m Grow Bed - Carrots - August 2025",
-        "name": ""
+        "name": "",
+        "Image": "https://framerusercontent.com/images/GJ4B90JVPjevkdGtLChmO2D0w.png"
       },
       "geometry": {
         "coordinates": [
@@ -1018,11 +1021,12 @@
         "stroke": "#ffffff",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#DF494E",
+        "fill": "#df494e",
         "fill-opacity": 0.5,
         "Function": "Storage",
         "Owner": "Bernard, James, John",
-        "Value": 57920
+        "Value": 57920,
+        "Image": "https://framerusercontent.com/images/RTdI3FBlHkzFcgrOHGcAgoA6l0o.png?scale-down-to=512"
       },
       "geometry": {
         "coordinates": [
@@ -1050,7 +1054,8 @@
           ]
         ],
         "type": "Polygon"
-      }
+      },
+      "id": 15
     },
     {
       "type": "Feature",
