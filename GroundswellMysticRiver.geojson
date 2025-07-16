@@ -891,7 +891,7 @@
         "Asset": "Nursery Structure",
         "Value": 13928,
         "Function": "Housing and irrigation for nersery plants, seedlings and storage",
-        "Image": "https://framerusercontent.com/images/JdOSUdX2C1i6Fe8Nu75zoCsEnQU.png"
+        "image_url": "https://framerusercontent.com/images/JdOSUdX2C1i6Fe8Nu75zoCsEnQU.png"
       },
       "geometry": {
         "coordinates": [
@@ -935,7 +935,7 @@
         "Value": 17923,
         "Function": "Community compost toilet",
         "name": "",
-        "Image": "https://framerusercontent.com/images/7mPxqgyPJTZuocirNtW7i25FcNc.png"
+        "image_url": "https://framerusercontent.com/images/7mPxqgyPJTZuocirNtW7i25FcNc.png"
       },
       "geometry": {
         "coordinates": [
@@ -979,7 +979,7 @@
         "Value": 2100,
         "Function": "30m x 0.75m Grow Bed - Carrots - August 2025",
         "name": "",
-        "Image": "https://framerusercontent.com/images/GJ4B90JVPjevkdGtLChmO2D0w.png"
+        "image_url": "https://framerusercontent.com/images/GJ4B90JVPjevkdGtLChmO2D0w.png"
       },
       "geometry": {
         "coordinates": [
@@ -1026,7 +1026,7 @@
         "Function": "Storage",
         "Owner": "Bernard, James, John",
         "Value": 57920,
-        "Image": "https://framerusercontent.com/images/RTdI3FBlHkzFcgrOHGcAgoA6l0o.png?scale-down-to=512"
+        "image_url": "https://framerusercontent.com/images/RTdI3FBlHkzFcgrOHGcAgoA6l0o.png?scale-down-to=512"
       },
       "geometry": {
         "coordinates": [
